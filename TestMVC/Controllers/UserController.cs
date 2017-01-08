@@ -1,41 +1,48 @@
-﻿using System.Data.Entity;
-using System.Linq;
-using System.Net;
+﻿using App.Service;
+using AutoMapper;
+using System.Collections.Generic;
 using System.Web.Mvc;
 using TestMVC.CustomBinder;
 using TestMVC.DAL;
-using TestMVC.Entity;
 using TestMVC.Models;
 
 namespace TestMVC.Controllers
 {
     public class UserController : Controller
     {
-        private UserContext db = new UserContext();
+        private IUserService userService;
 
-        // GET: Users
-        public ActionResult Index()
+        public UserController(IUserService userService)
         {
-            return View(db.Users.ToList());
+            this.userService = userService;
         }
 
-        // GET: Users/Create
+        private UserContext db = new UserContext();
+
+        public ActionResult Index()
+        {
+            var users = userService.GetAll();
+
+            return View(Mapper.Map<List<UserViewModel>>(users));
+            //return View(db.Users.ToList());
+        }
+
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: Users/Create
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([ModelBinder(typeof(UserCustomBinder))] UserViewModel createUserRequest)
+        public ActionResult Create([ModelBinder(typeof(UserCustomBinder))] UserViewModel request)
         {
             if (ModelState.IsValid)
             {
-                User user = new User(createUserRequest.FirstName, createUserRequest.LastName, createUserRequest.Email, createUserRequest.DateOfBirth);
-                db.Users.Add(user);
-                db.SaveChanges();
+                CreateUserRequest createUserRequest = Mapper.Map<CreateUserRequest>(request);
+                userService.CreateUser(createUserRequest);
+                //User user = new User(createUserRequest.FirstName, createUserRequest.LastName, createUserRequest.Email, createUserRequest.DateOfBirth);
+                //db.Users.Add(user);
+                //db.SaveChanges();
                 return RedirectToAction("Index");
             }
             else
@@ -43,7 +50,7 @@ namespace TestMVC.Controllers
                 ViewBag.isErrorBirthDate = ModelState["DateOfBirth"].Errors.Count > 0;
             }
 
-            return View(createUserRequest);
+            return View(request);
         }
 
         protected override void Dispose(bool disposing)

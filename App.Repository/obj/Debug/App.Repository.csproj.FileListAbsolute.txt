@@ -1,0 +1,5 @@
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository\obj\Debug\App.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository\obj\Debug\App.Repository.pdb

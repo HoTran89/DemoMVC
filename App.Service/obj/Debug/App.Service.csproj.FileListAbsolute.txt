@@ -1,0 +1,5 @@
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service\bin\Debug\App.Service.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service\bin\Debug\App.Service.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service\obj\Debug\App.Service.csprojResolveAssemblyReference.cache
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service\obj\Debug\App.Service.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service\obj\Debug\App.Service.pdb

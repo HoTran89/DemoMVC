@@ -1,0 +1,16 @@
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Repository.Impl.dll.config
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Repository.Impl.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Repository.Impl.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Context.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Entity.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Repository.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\EntityFramework.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Context.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Entity.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\App.Repository.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\EntityFramework.xml
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\obj\Debug\App.Repository.Impl.csprojResolveAssemblyReference.cache
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\obj\Debug\App.Repository.Impl.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Repository.Impl\obj\Debug\App.Repository.Impl.pdb

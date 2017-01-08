@@ -1,0 +1,12 @@
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\App.Context.dll.config
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\App.Context.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\App.Context.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\App.Entity.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\EntityFramework.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\App.Entity.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\EntityFramework.xml
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\obj\Debug\App.Context.csprojResolveAssemblyReference.cache
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\obj\Debug\App.Context.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Context\obj\Debug\App.Context.pdb

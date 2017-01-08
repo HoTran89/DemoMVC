@@ -1,0 +1,13 @@
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Service.Impl.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Service.Impl.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Entity.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Repository.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Service.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\AutoMapper.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Entity.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Repository.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\App.Service.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\bin\Debug\AutoMapper.xml
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\obj\Debug\App.Service.Impl.csprojResolveAssemblyReference.cache
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\obj\Debug\App.Service.Impl.dll
+C:\Users\Ho Tran\Desktop\TestMVC\App.Service.Impl\obj\Debug\App.Service.Impl.pdb

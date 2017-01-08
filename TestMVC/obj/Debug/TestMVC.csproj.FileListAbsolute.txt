@@ -80,3 +80,7 @@ C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAc
 C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\obj\Debug\TestMVC.csprojResolveAssemblyReference.cache
 C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\obj\Debug\TestMVC.dll
 C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\bin\App.Service.dll
+C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\bin\AutoMapper.dll
+C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\bin\App.Service.pdb
+C:\Users\Ho Tran\Desktop\TestMVC\TestMVC\bin\AutoMapper.xml
